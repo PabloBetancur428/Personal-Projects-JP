@@ -1,1 +1,2 @@
 # Personal-Projects-JP
+This GitHub repository houses various personal projects I have undertaken in the past. One notable project within this collection is the Kidney Stone project, where I implemented Transfer Learning using a pretrained ResNet50 model on a dedicated Kidney Stone dataset. The outcomes of these experiments have been documented in several manuscripts, and certain portions of the code remain integral to ongoing investigations.
